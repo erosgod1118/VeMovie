@@ -1,0 +1,16 @@
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240811-8596-c22m4y sitelibdir\=./.gem.20240811-8596-c22m4y clean
+
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240811-8596-c22m4y sitelibdir\=./.gem.20240811-8596-c22m4y
+make: Nothing to be done for `all'.
+
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240811-8596-c22m4y sitelibdir\=./.gem.20240811-8596-c22m4y install
+
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240811-8596-c22m4y sitelibdir\=./.gem.20240811-8596-c22m4y clean

@@ -1,0 +1,18 @@
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240811-8596-x39npl sitelibdir\=./.gem.20240811-8596-x39npl clean
+
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240811-8596-x39npl sitelibdir\=./.gem.20240811-8596-x39npl
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240811-8596-x39npl sitelibdir\=./.gem.20240811-8596-x39npl install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240811-8596-x39npl
+
+current directory: /Users/apple/Work/vemovie/vemovie/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240811-8596-x39npl sitelibdir\=./.gem.20240811-8596-x39npl clean
